@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cairn",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6a9dad57-f7ae-4a08-8557-e8ce90eb78ae",
+			"database_name": "cairn"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
