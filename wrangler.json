@@ -10,6 +10,15 @@
 			"database_name": "cairn"
 		}
 	],
+	"ai": {
+		"binding": "AI"
+	},
+	"vectorize": [
+		{
+			"binding": "VECTORIZE",
+			"index_name": "cairn-memories"
+		}
+	],
 	"observability": {
 		"enabled": true
 	}
